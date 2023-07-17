@@ -1,0 +1,16 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1uF,C_0402_1005Metric,144.8,-87.92,90.0,top
+C2,10uF,C_0402_1005Metric,143.8,-87.92,90.0,top
+C3,0.1uF,C_0402_1005Metric,145.8,-87.72,90.0,top
+C4,10uF,C_0402_1005Metric,146.8,-87.72,90.0,top
+D1,LED,LED_0603_1608Metric,146.6,-98.4,180.0,top
+D2,LED,LED_0603_1608Metric,146.6,-96.61,180.0,top
+P1,USB_C_Plug_USB2.0,USB_C_Receptacle_HRO_TYPE-C-31-M-12,134.0,-91.8,-90.0,top
+R1,5.1k,R_0402_1005Metric,140.8,-90.6,0.0,top
+R2,5.1k,R_0402_1005Metric,140.8,-93.6,0.0,top
+R3,22.1k,R_0402_1005Metric,144.2,-90.2,90.0,top
+R4,47.5,R_0402_1005Metric,144.2,-92.2,90.0,top
+R5,R,R_0402_1005Metric,144.06,-98.38,180.0,top
+R6,R,R_0402_1005Metric,144.06,-96.58,180.0,top
+U1,CP2102N-Axx-xQFN28,QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm,148.1,-92.3,-90.0,top
+U2,~,DCSD_Serial,164.0,-91.8,-90.0,top
