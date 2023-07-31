@@ -173,6 +173,7 @@
       ],
       "track_widths": [
         0.0,
+        0.25,
         0.5
       ],
       "via_dimensions": [
@@ -442,7 +443,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "DCSDv2_CP2102N.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
